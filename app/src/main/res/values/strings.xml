@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="tvshows">TV Shows</string>
+    <string name="movies">Movies</string>
+    <string name="score"> %d %s</string>
+    <string name="foregroundPoster">foregroundPoster</string>
+    <string name="dummyTitle">Fantastic Beasts</string>
+    <string name="dummyDuration">22min</string>
+    <string name="dummyDate">20 sept</string>
+    <string name="dummyUserScore">75%</string>
+    <string name="backButton">backButton</string>
+    <string name="overviewTitle">OVERVIEW</string>
+    <string name="dummyOverview">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet</string>
+    <string name="genreTitle">GENRE</string>
+    <string name="dummyGenre">Action</string>
+    <string name="share">SHARE</string>
+</resources>
